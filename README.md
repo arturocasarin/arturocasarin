@@ -21,34 +21,29 @@ MBA | Master's in Business Analytics & Big Data
 
 🔧 **Travers Tool Mexico**, Queretaro (May 2020 - Aug 2022)  
 Product Manager  
-- 📈 Used data strategies to optimize product portfolios and boost sales by 10%.
-- 🤝 Built relationships with 60+ suppliers, increasing marketing output by 30%.
+- Used data strategies to optimize product portfolios and boost sales by 10%.
+- Built relationships with 60+ suppliers, increasing marketing output by 30%.
 
-🇫🇷 **Otelo**, Paris (Nov 2019 - Apr 2020)  
+🔧 **Otelo**, Paris (Nov 2019 - Apr 2020)  
 Product Manager  
-- 📖 Set up the company's first monthly catalogue, enhancing team communication by 30%.
-- 🚀 Improved project efficiency by 15% and enhanced communication with Spanish-speaking clients.
+- Set up the company's first monthly catalogue, enhancing team communication by 30%.
+- Improved project efficiency by 15% and enhanced communication with Spanish-speaking clients.
 
 ---
 
 ## 🛠️ Skills
 
-- 🐍 **Python**  
-- 📊 **SQL**  
-- 📈 **Tableau**  
-- 🔍 **Looker Studio**  
-- 📉 **Advanced Excel**  
-- 🗄️ **NoSQL**  
-- 🔄 **Product Management**: Lifecycle expertise, user engagement  
-- 📣 **Marketing**: Market dynamics, brand development  
+`Python` `SQL` `Tableau` `Looker Studio` `Advanced Excel` `NoSQL` `Pandas` `Google Analytics` `WordPress`  
+`Product Management` `Marketing`
+
 
 ---
 
 ## 🌟 Current Focus
 
-- 📊 Sharpening data visualization skills
-- 🤖 Exploring real-world machine learning applications
-- 💡 Democratizing artificial intelligence
+- Sharpening data visualization skills
+- Exploring real-world machine learning applications
+- Democratizing artificial intelligence
 
 ---
 
