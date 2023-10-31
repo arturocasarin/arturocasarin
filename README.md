@@ -6,7 +6,7 @@
 
 ## 🎙️ About Me
 
-I've honed my skills in marketing over 5 years, diving deep into product management in the last 3. With an MBA and a Master's in Business Analytics & Big Data from IE Business University under my belt, my sights are set on the exhilarating world of data analytics and tech.
+I've honed my skills in marketing over 5 years, diving deep into product management in the last 3. After wrapping up my MBA and Master's in Business Analytics & Big Data from IE Business University, I'm now diving into data analytics and exploring the tech scene.
 
 ---
 
@@ -36,6 +36,13 @@ Product Manager
 `Python` `SQL` `Tableau` `Looker Studio` `Advanced Excel` `NoSQL` `Pandas` `Google Analytics` `WordPress`  
 `Product Management` `Marketing`
 
+---
+
+## 🌐 Languages
+
+- **Spanish**: Native  
+- **English**: Advanced  
+- **French**: Basic  
 
 ---
 
